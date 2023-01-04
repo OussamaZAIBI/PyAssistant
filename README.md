@@ -1,6 +1,5 @@
 # PyAssistant
 For the API's, we used:
-wolframalpha
-wikipediaapi
+wolframalpha and wikipediaapi
 For the GUI:
 PySimpleGUI
